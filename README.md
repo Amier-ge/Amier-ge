@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, This is YoungJin, a developer who codes dreams.</h1>
+<h1 align="left">Hi 👋, This is YoungJin, who will be a greatest white hat.</h1>
 <h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimer-ge&label=Profile%20views&color=0e75b6&style=flat" alt="aimer-ge" /> </p>
